@@ -1,0 +1,30 @@
+.flag {
+	margin: 1rem;
+	border: 0.25rem solid black;
+}
+
+.flag.lt div:nth-child(1) {
+	background-color: #ffff44;
+	height: 3rem;
+}
+.flag.lt div:nth-child(2) {
+	background-color: #00ffaa;
+	height: 3rem;
+}
+.flag.lt div:nth-child(3) {
+	background-color: #ff5533;
+	height: 3rem;
+}
+
+.flag.naxui-loxai div:nth-child(1) {
+	background-color: #ffffff;
+	height: 3rem;
+}
+.flag.naxui-loxai div:nth-child(2) {
+	background-color: #0000ff;
+	height: 3rem;
+}
+.flag.naxui-loxai div:nth-child(3) {
+	background-color: #ff0000;
+	height: 3rem;
+}
